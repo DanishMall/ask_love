@@ -55,7 +55,7 @@ body {
 }
 
 .btn:hover {
-    background-color: rgba(233, 48, 48, 0.1); /* Light red hover effect */
+    background-color: #800e13; /* Light red hover effect */
     color: rgb(255, 255, 255);
     transform: scale(1.05); /* Slight scale on hover */
 }
